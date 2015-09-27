@@ -12,7 +12,7 @@
 2. Read more about the data here -> http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones 
 
 
-## Run_Analysis.R decription
+## Run_Analysis.R description
 1. The code if makes sure that the reshape and reshape2 packages are installed, and if not those packages will be installed
 2. The reshape and reshape libraries are loaded
 3. Activity lables file is loaded
